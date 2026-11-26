@@ -1,0 +1,5 @@
+es\ercilla\config\JpaUtil.class
+es\ercilla\service\ProductoRestService.class
+es\ercilla\dao\ProductoDAO.class
+es\ercilla\modelos\Producto.class
+es\ercilla\api\ConfigRest.class
